@@ -1,0 +1,12 @@
+D:\Projetos\Artigos\ExemploPrismApp\ExemploPrismApp\ExemploPrismApp\bin\Debug\netstandard2.0\ExemploPrismApp.deps.json
+D:\Projetos\Artigos\ExemploPrismApp\ExemploPrismApp\ExemploPrismApp\bin\Debug\netstandard2.0\ExemploPrismApp.dll
+D:\Projetos\Artigos\ExemploPrismApp\ExemploPrismApp\ExemploPrismApp\bin\Debug\netstandard2.0\ExemploPrismApp.pdb
+D:\Projetos\Artigos\ExemploPrismApp\ExemploPrismApp\ExemploPrismApp\obj\Debug\netstandard2.0\ExemploPrismApp.csprojAssemblyReference.cache
+D:\Projetos\Artigos\ExemploPrismApp\ExemploPrismApp\ExemploPrismApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Projetos\Artigos\ExemploPrismApp\ExemploPrismApp\ExemploPrismApp\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+D:\Projetos\Artigos\ExemploPrismApp\ExemploPrismApp\ExemploPrismApp\obj\Debug\netstandard2.0\ExemploPrismApp.csproj.CoreCompileInputs.cache
+D:\Projetos\Artigos\ExemploPrismApp\ExemploPrismApp\ExemploPrismApp\obj\Debug\netstandard2.0\ExemploPrismApp.AssemblyInfoInputs.cache
+D:\Projetos\Artigos\ExemploPrismApp\ExemploPrismApp\ExemploPrismApp\obj\Debug\netstandard2.0\ExemploPrismApp.AssemblyInfo.cs
+D:\Projetos\Artigos\ExemploPrismApp\ExemploPrismApp\ExemploPrismApp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Projetos\Artigos\ExemploPrismApp\ExemploPrismApp\ExemploPrismApp\obj\Debug\netstandard2.0\ExemploPrismApp.dll
+D:\Projetos\Artigos\ExemploPrismApp\ExemploPrismApp\ExemploPrismApp\obj\Debug\netstandard2.0\ExemploPrismApp.pdb
